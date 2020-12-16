@@ -1,5 +1,5 @@
 # tarefasSD
-Material de apoio para a resolução das tarefas de programção disponibilizadas ao longo do semestre 2020/2
+Material de apoio para a resolução das tarefas de programação disponibilizadas ao longo do semestre 2020/2
 
 # Links que podem ser úteis...
 
