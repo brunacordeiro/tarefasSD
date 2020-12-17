@@ -40,8 +40,8 @@ Obs: Para editar o arquivo aberto, basta clicar na letra "i" do teclado, a palav
 Passo 7 - Assim que todas as configurações forem realizadas, é preciso iniciar o servidor e os clientes:
 
 	- na máquina do servidor execute: python3 rpc3.py, observe que o servidor será iniciado e ficará em espera
-	- na máquina do cliente 1 execute o mesmo comando, observe que ele ficará aguardando dados...
-	- na máquina do cliente 2 execute o mesmo comando, observe que será criado uma referência remota que permitirá a comunicação do cliente 1 com o servidor.
+	- na máquina do cliente 2 execute o mesmo comando, observe que ele ficará aguardando dados...
+	- na máquina do cliente 1 execute o mesmo comando, observe que será criado uma referência remota que permitirá a comunicação do cliente 1 e 2 com o servidor.
 	
 
 Dica: Caso ocorra o erro "OSError: [Errno 98] Address already in use" então a conexão não foi finalizada... nesse caso execute o seguinte comando:
