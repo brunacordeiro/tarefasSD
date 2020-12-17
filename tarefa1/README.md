@@ -1,4 +1,6 @@
 
+Link do vídeo explicativo: https://drive.google.com/file/d/1SkAbFOZo7k_HGviJRsaa6TJFrnZOqqJz/view?usp=sharing
+
 Passo 1 - conectar na máquina virtual via SSH
 
 Passo 2 - criar uma pasta que indique a finalidade da máquina, por exemplo: client1, client2 ou server...
