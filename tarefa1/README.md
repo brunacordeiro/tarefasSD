@@ -17,8 +17,7 @@ Passo 3 - criar dentro da pasta 5 arquivos .py conforme abaixo
 
 Passo 4 - em cada pasta há os códigos necessários para a execução da atividade, é necessário realizar a alteração em três arquivos: 
 
-client.py e server.py adicionando o IP da máquina que está sendo utilizada
-constRPC.py conforme indicado abaixo
+client.py e server.py adicionando o IP da máquina que está sendo utilizada e constRPC.py conforme indicado abaixo
 
 Passo 5 - realizar a alteração no arquivo constRPC.py informando o endereço IP das máquinas que você criou e definindo as portas que você criou no seu grupo de segurança... os valores que aparecem no exemplo abaixo e no arquivo constRPC.py são referentes a minha simulação...
 
